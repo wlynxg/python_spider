@@ -157,9 +157,9 @@ with open(f"{name}.jpg", "wb") as f:
 
 [![UxmO00.md.png](https://s1.ax1x.com/2020/07/24/UxmO00.md.png)](https://imgchr.com/i/UxmO00)
 
-###### 4. 完整代码
+##### 4. 完整代码
 
-如果觉得有帮助，请为博主点一个小小的 star ✩吧，你的鼓励是博主最大的动力！
+如果觉得有帮助，请为博主点一个小小的 <p>star ✩</p>吧，你的鼓励是博主最大的动力！
 
 [![Uxuoss.th.png](https://s1.ax1x.com/2020/07/24/Uxuoss.th.png)](https://imgchr.com/i/Uxuoss)
 
