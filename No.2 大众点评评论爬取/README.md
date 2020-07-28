@@ -160,10 +160,9 @@ for i in range(1, 3):
 **PS：爬虫虽好，可不要贪杯哦，小心面向监狱编程哦😂**
 ![柯南](https://img-blog.csdnimg.cn/20200619001553644.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQzNTgwMTkz,size_16,color_FFFFFF,t_70)
 
-### 4. 完整代码
+##### 4. 完整代码
 
-如果觉得有帮助，请为博主点一个小小的 star ✩吧，你的鼓励是博主最大的动力！
+如果觉得有帮助，请为博主点一个小小的 <p>star ✩</p>吧，你的鼓励是博主最大的动力！
+[传送门]([https://github.com/1314liuwei/python_spider/blob/master/No.2%20%E5%A4%A7%E4%BC%97%E7%82%B9%E8%AF%84%E8%AF%84%E8%AE%BA%E7%88%AC%E5%8F%96/main.py](https://github.com/1314liuwei/python_spider/blob/master/No.2 大众点评评论爬取/main.py))
 
 [![Uxuoss.th.png](https://s1.ax1x.com/2020/07/24/Uxuoss.th.png)](https://imgchr.com/i/Uxuoss)
-
-[传送门](
