@@ -102,8 +102,4 @@ data = json.loads(response[6:len(response) - 1])  # 去掉首尾多余字符串
 ```
 
 #### 4. 完整代码
-
-如果觉得有帮助，请为博主点一个小小的 <p>star ✩</p>吧，你的鼓励是博主最大的动力！
 [传送门]([[https://github.com/1314liuwei/python_spider/blob/master/No.3%20B%E7%AB%99%E6%90%9C%E7%B4%A2%E7%BB%93%E6%9E%9C%E9%93%BE%E6%8E%A5%E7%88%AC%E5%8F%96/main.py](https://github.com/1314liuwei/python_spider/blob/master/No.3 B站搜索结果链接爬取/main.py))
-
-[![Uxuoss.th.png](https://s1.ax1x.com/2020/07/24/Uxuoss.th.png)](https://imgchr.com/i/Uxuoss)
