@@ -159,7 +159,5 @@ with open(f"{name}.jpg", "wb") as f:
 
 ##### 4. 完整代码
 
-如果觉得有帮助，请为博主点一个小小的 <p>star ✩</p>吧，你的鼓励是博主最大的动力！
-[传送门](https://github.com/1314liuwei/python_spider/blob/master/1%E3%80%81%E8%B1%86%E7%93%A3%E7%94%B5%E5%BD%B1Top250/main.py)
-[![Uxuoss.th.png](https://s1.ax1x.com/2020/07/24/Uxuoss.th.png)](https://imgchr.com/i/Uxuoss)
+##### [传送门](https://github.com/1314liuwei/python_spider/blob/master/1%E3%80%81%E8%B1%86%E7%93%A3%E7%94%B5%E5%BD%B1Top250/main.py)
 
