@@ -106,4 +106,4 @@ print(resp.text)
 那么今天的教程就到此结束了，朋友们快去试一试吧！
 
 ### 3. 完整代码
-[传送门]([[https://github.com/1314liuwei/python_spider/blob/master/No.3%20B%E7%AB%99%E6%90%9C%E7%B4%A2%E7%BB%93%E6%9E%9C%E9%93%BE%E6%8E%A5%E7%88%AC%E5%8F%96/main.py](https://github.com/1314liuwei/python_spider/blob/master/No.3 B站搜索结果链接爬取/main.py))
+[传送门]([https://github.com/1314liuwei/python_spider/blob/master/No.4%20%E6%8B%89%E5%8B%BE%E7%BD%91%E8%81%8C%E4%BD%8D%E6%90%9C%E7%B4%A2%E4%BF%A1%E6%81%AF%E7%88%AC%E5%8F%96/main.py)
