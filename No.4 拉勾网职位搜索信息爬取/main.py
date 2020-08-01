@@ -58,6 +58,6 @@ class Lagou(object):
             finally:
                 count += 1
 
+
 if __name__ == '__main__':
     Lagou('爬虫')
-
