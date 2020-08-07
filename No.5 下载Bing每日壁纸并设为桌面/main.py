@@ -21,9 +21,13 @@ class Bing(object):
         :return:
         """
         url = "https://cn.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&nc={}"
+        # 构造当前时间的13位时间戳
         timestamp = round(time.time() * 1000)
+
         res = requests.get(url.format(timestamp))
+        # 提取图片链接
         pic_url = res.json()['images'][0]['url']
+        # 拼接链接
         self.pic_url = "https://cn.bing.com{}".format(pic_url)
         return self
 
