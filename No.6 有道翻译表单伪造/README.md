@@ -89,6 +89,10 @@ var r = function(e) {
 #### Python 代码实现
 
 ```python
+import time
+import random
+from hashlib import md5
+
 data = {
 "i": "爬虫",
 "from": "AUTO",
@@ -116,3 +120,7 @@ data['sign'] = enc.hexdigest()
 ```
 
 表单伪造完成之后我们就可以数据请求了。数据请求部分比较简单，这里就不贴出详细教程了。具体代码可以在下面查看。
+
+### 3. 完整代码
+
+[完整代码](https://github.com/1314liuwei/python_spider/tree/master/No.6%20%E6%9C%89%E9%81%93%E7%BF%BB%E8%AF%91%E8%A1%A8%E5%8D%95%E4%BC%AA%E9%80%A0)
