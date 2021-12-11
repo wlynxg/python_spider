@@ -1,4 +1,4 @@
-# 爬虫百例
+# 爬虫教学
 
 ### 最新教程：
 [No.6 有道翻译表单伪造](https://github.com/1314liuwei/python_spider/tree/master/No.6%20%E6%9C%89%E9%81%93%E7%BF%BB%E8%AF%91%E8%A1%A8%E5%8D%95%E4%BC%AA%E9%80%A0)
@@ -19,3 +19,4 @@
 ### CSDN地址：
 
 [传送门](https://blog.csdn.net/qq_43580193)
+
